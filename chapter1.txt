@@ -1,1 +1,2 @@
-New Brand created for chapter 2 but modified chapter 1
+New Brand created for chapter 2 but modified chapter 1.
+Testing again for new branch
